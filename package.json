@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+	"roll-dice": "./bin/cli.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/comp426-2022-fall/a03-MatthewKolsch.git"

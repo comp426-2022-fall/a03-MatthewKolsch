@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": 50000
+    },
+    {
+      "name": "Link command works",
+      "setup": "npm install",
+      "run": "npm link",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50000
     }
   ]
 }
